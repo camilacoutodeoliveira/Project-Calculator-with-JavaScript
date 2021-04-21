@@ -13,8 +13,22 @@
 </p>
 
 ## 💻 Project
+This project corresponds to a calculator developed with the JavaScript programming language;<br>
+The screen was built with HTML and CSS, using svg;<br>
 
 ## :books: Learned
 
+<ul>
+ <li>POO - (Object Oriented Programming);</li>
+ <li>MVC - (Model View Controller);</li>
+ <li>Manipulate the DOM;</li>
+ <li>Repetition Structures;</li> 
+ <li>Events;</li>
+ <li>Etc..</li>
+</ul>
 
+## 🎨 Layout
+<p align="center">
+ <img width="180px" src="https://github.com/camilacoutodeoliveira/Project-Calculator-with-JavaScript/blob/main/layoutCalculator.png?raw=true">
+</p>
 This project was developed based on the Complete JavaScript Course with ♥ [HCode](https://hcode.com.br/)/[Udemy](https://www.udemy.com/course/javascript-curso-completo/)
