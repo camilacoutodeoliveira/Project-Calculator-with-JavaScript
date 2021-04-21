@@ -31,4 +31,6 @@ The screen was built with HTML and CSS, using svg;<br>
 <p align="center">
  <img width="180px" src="https://github.com/camilacoutodeoliveira/Project-Calculator-with-JavaScript/blob/main/layoutCalculator.png?raw=true">
 </p>
+
+## 🤝Thanks
 This project was developed based on the Complete JavaScript Course with ♥ [HCode](https://hcode.com.br/)/[Udemy](https://www.udemy.com/course/javascript-curso-completo/)
