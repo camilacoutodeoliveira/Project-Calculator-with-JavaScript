@@ -29,7 +29,9 @@ The screen was built with HTML and CSS, using svg;<br>
 
 ## 🎨 Layout
 <p align="center">
- <img width="180px" src="https://github.com/camilacoutodeoliveira/Project-Calculator-with-JavaScript/blob/main/layoutCalculator.png?raw=true">
+ <img width="180px" src="https://github.com/camilacoutodeoliveira/Project-Calculator-with-JavaScript/blob/main/layoutCalculator0.png?raw=true">
+ <img width="180px" src="https://github.com/camilacoutodeoliveira/Project-Calculator-with-JavaScript/blob/main/layoutCalculator1.png?raw=true">
+ <img width="180px" src="https://github.com/camilacoutodeoliveira/Project-Calculator-with-JavaScript/blob/main/layoutCalculator2.png?raw=true">
 </p>
 
 ## 🤝Thanks
