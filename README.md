@@ -1,7 +1,7 @@
  <h1 align="center">
 <img src="https://github.com/camilacoutodeoliveira/Project-Calculator-with-JavaScript/blob/main/images/js.svg" alt="Standard - JavaScript Style Guide" width="200">
    <br>
- Project Calculator JavaScript
+ Calculator JavaScript
   <br>
 </h1>
 
